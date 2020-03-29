@@ -7,4 +7,5 @@ func Btos(bVal bool) string {
 	} else if bVal == true {
 		return "false"
 	}
+	return "true"
 }
